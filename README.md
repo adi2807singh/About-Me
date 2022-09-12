@@ -8,15 +8,13 @@
 
 <br>
 
-# Overview About Me:-
+### Overview-About-Me:-
 
-- 💼 I’m currently working in <strong>Wipro</strong>
+<h5>- 💼 I’m currently working in <strong>Wipro</strong></h5>
 
-- 🌱 I’m currently learning **DotNet,Azure**
+<h5>- 🌱 I’m currently learning **DotNet,Azure**</h5>
 
-- 💬 Ask me about **Flask, MySQL,Python,C#,SqlServer,ADO.Net,Asp.Net,Azure-900**
-
-- 📫 How to reach me **<a href="mailto:adi2807singh@gmail.com" target="_blank">Mail </a>**
+<h5>- 💬 Ask me about **Flask, MySQL,Python,C#,SqlServer,ADO.Net,Asp.Net,Azure-900**</h5>
 
 
 ### 📫 How to reach me?
