@@ -10,11 +10,11 @@
 
 ### Overview-About-Me:-
 
-<h5>- 💼 I’m currently working in <strong>Wipro</strong></h5>
+<h5>- 💼 I’m currently Working at <strong>Wipro</strong></h5>
 
-<h5>- 🌱 I’m currently learning **DotNet,Azure**</h5>
+<h5>- 🌱 I’m currently Learning **DotNet,Azure**</h5>
 
-<h5>- 💬 Ask me about **Flask, MySQL,Python,C#,SqlServer,ADO.Net,Asp.Net,Azure-900**</h5>
+<h5>- 💬 Ask me About **Flask, MySQL,Python,C#,SqlServer,ADO.Net,Asp.Net,Azure-900**</h5>
   
 <h5>- My Project 👇</h5><a href="https://github.com/adi2807singh/Audio-Steganalysis.git" target="_blank">Audio-Steganalysis</a>
 
