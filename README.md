@@ -1,5 +1,5 @@
 # About-Me
-<h2 align="center">Hi there 👋, I'm Aditya Kumar Singh aka <a href="https://adi2807singh.github.io" target="_blank">adi2807singh</h2>
+<h2 align="center">Hi there 👋, I'm Aditya Kumar Singh aka <a href="https://adi2807singh.github.com" target="_blank">adi2807singh</h2>
 <h3 align="center">Wiproite || Programmer 💻 || Information Technology 👨‍🎓  || Enthusiast 🧑‍💻 || Explorer 🔎</h3>
 
 
