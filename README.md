@@ -18,7 +18,7 @@
   
 <h5>- My Project 👇</h5><a href="https://github.com/adi2807singh/Audio-Steganalysis.git" target="_blank">Audio-Steganalysis</a>
 
-<a href="https://github.com/adi2807singh/Inventory Management System.git" target="_blank">Inventory Management System</a>
+<a href="https://github.com/adi2807singh/Inventory-Management-System.git" target="_blank">Inventory Management System</a>
 
 
 
