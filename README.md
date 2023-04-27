@@ -12,7 +12,7 @@
 
 <h5>- 💼 I’m currently Working at <strong>Wipro</strong></h5>
 
-<h5>- 🌱 I’m currently Learning **DotNet,Azure**</h5>
+<h5>- 🌱 I’m currently Learning **DotNet,Azure,JavaScript**</h5>
 
 <h5>- 💬 Ask me About **Flask, MySQL,Python,C#,SqlServer,ADO.Net,Asp.Net,Azure-900**</h5>
   
